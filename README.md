@@ -34,7 +34,7 @@ Precision Agriculture, Remote Sensing, Vegetation Indices (NDVI/GNDVI), Yield Pr
 
 ## 👥 Team
 
-Tanala Phanendra
+Tanala Phanendra and
 Ganta Anand
 
 ## 📄 Documents
